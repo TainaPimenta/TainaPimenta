@@ -1,8 +1,8 @@
 ##  ¡Hola, bien venidos a mi GitHub! Soy Tainá🙋🏾‍♀️
 
-👩🏾‍💻Actualmente soy estudiante de  HTML, CSS y JS <br>
+👩🏾‍💻Estudiante desarrollador java jr. en Generation Brasil <br>
 
-🥰Estoy buscando algo en el área de Front-end <br>
+🥰Estoy buscando algo en el área <br>
 
 📖Además de programación, también estudio español <br>
 
