@@ -1,6 +1,6 @@
 ##  ¡Hola, bien venidos a mi GitHub! Soy Tainá🙋🏾‍♀️
 
-👩🏾‍💻Estudiante desarrollador java jr. en Generation Brasil <br>
+👩🏾‍💻Estudiante Desarrollador Java Jr. en Generation Brasil <br>
 
 🥰Estoy buscando algo en el área <br>
 
