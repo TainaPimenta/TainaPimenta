@@ -2,7 +2,7 @@
 
 👩🏾‍💻Estudiante Desarrollador Java Jr Fullstack en Generation Brasil <br>
 
-🥰Estoy buscando algo en el área de Front-end, me encanta "jugar" con la interfaz y es lo que más me encanta <br>
+🥰Estoy buscando algo en el área de Front-end, me encanta "jugar" con la interfaz<br>
 
 📖Además de programación, también estudio español <br>
 
