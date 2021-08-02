@@ -1,4 +1,4 @@
-##  ¡Hola,bienvenidos a mi GitHub! Soy Tainá🙋🏾‍♀️
+##  ¡Hola, bienvenidos a mi GitHub! Soy Tainá🙋🏾‍♀️
 
 👩🏾‍💻Estudiante Desarrollador Java Jr Fullstack en Generation Brasil <br>
 
