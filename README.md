@@ -1,6 +1,6 @@
 ##  ¡Hola, bienvenidos a mi GitHub! Soy Tainá🙋🏾‍♀️
 
-👩🏾‍💻 Desarrolladora back-and Jr. en Fliper <br>
+👩🏾‍💻 Desarrolladora Mobile Jr. en Rede Globo <br>
 
 📖Además de programación, también estudio español <br>
 
